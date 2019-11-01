@@ -1,0 +1,61 @@
+﻿<DOCTYPE html>
+
+
+    <html lang="en-us">
+    <link rel="stylesheet" href="assets\css\style.css">
+    <div class="main">
+        <header>
+            <meta charset="UTF-8">
+            <title>About Me</title>
+            <title>Portfolio</title>
+            <div class="name">
+                <h1>Matthew Folger</h1>
+            </div>
+
+            <div class="topnav">
+
+                <a href="contact.html">Contact</a>
+                <a href="portfolio.html">Portfolio</a>
+                <a class="active" href="about.html">About</a>
+            </div>
+
+        </header>
+
+    <body background="assets/images/whitemarblebackground.jpg">
+        
+    <div id="maindiv">
+      <!--  <div id="myname">
+            Matthew Folger
+        </div> -->
+        <h3>
+            About Me
+        </h3>
+
+        <hr />
+        
+
+
+
+        <img style="float:left" src="assets/images/cutepuppybodyimage.jpg" height=250 width=300>
+        <p>
+            I'm a man of many interests and (I'd like to think) talents.  Musician, historical scholar, political activist, blogger, podcaster, bonifide geek and tech-nerd. 
+        </p>
+           
+
+ 
+    </div>
+
+        
+
+
+    </body>
+
+
+
+
+<footer>
+Copyright                            2019
+</footer>
+
+
+
